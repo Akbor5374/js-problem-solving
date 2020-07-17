@@ -38,7 +38,7 @@ console.log(needTotalWoodResult);
 
 
 //problem solving-3,brick Calculator
-function brrickCalculator(floor){
+function brickCalculator(floor){
     if(floor == 0){
        return "Zero values ​​are not acceptable,Please enter N number";
     }
